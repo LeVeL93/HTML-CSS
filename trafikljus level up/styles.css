@@ -1,0 +1,28 @@
+.alla-boxar {
+    height: 200px;
+    width: 200px;
+    margin: 40px;
+}
+
+
+
+
+.box-1 {
+    border: solid rgb(114, 21, 21) 10px;
+    background: linear-gradient(180deg, red 50%, rgb(223, 162, 162) 50%);
+}
+
+
+
+.box-2 {
+    border: solid rgb(214, 193, 5) 10px;
+    background: conic-gradient(yellow 0deg 90deg, khaki 90deg 180deg, yellow 180deg 270deg, yellow 270deg 360deg);
+}
+
+
+
+.box-3 {
+
+    border: solid rgb(27, 114, 0) 10px;
+    background: conic-gradient(green 0deg 180deg, khaki 180deg 270deg, green 270deg 360deg);
+}
